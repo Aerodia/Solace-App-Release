@@ -1,14 +1,14 @@
-# Solace 🧘
+# Solace 
 
 **A personal mental wellness companion to help you find peace and clarity.**
 
----
+
 
 ## About The App
 
 Solace is a mobile application designed to provide support for common mental health challenges. Whether you're finding it hard to sleep, feeling insecure, or healing from a heartbreak, Solace offers guided modules and tools to help you on your journey.
 
----
+
 
 ## 📸 Screenshots
 
@@ -23,7 +23,6 @@ Solace is a mobile application designed to provide support for common mental hea
 
 
 
----
 
 ## ✨ Features
 
@@ -32,10 +31,8 @@ Solace is a mobile application designed to provide support for common mental hea
 * **Spotify Integration:** Connect your mood to your music.
 * **And more!**
 
----
-
 ## 📲 Download
 
 You can download the latest version of the app directly from our releases page.
 
-**[-> Download Solace v1.0.apk <-](LINK_TO_YOUR_APK)**
+**[-> Download Solace v1.0.apk <-]((https://github.com/Aerodia/Solace-App-Release/releases/tag/v1.0.1))**
