@@ -12,10 +12,13 @@ Solace is a mobile application designed to provide support for common mental hea
 
 ## 📸 Screenshots
 
-![Uploading WhatsApp Image 2025-09-09 at 11.38.52_4bca7634.jpg…]()
-![Uploading WhatsApp Image 2025-09-09 at 11.38.52_481f0710.jpg…]()
-![Uploading WhatsApp Image 2025-09-09 at 11.38.51_3cc1829f.jpg…]()
-![Uploading WhatsApp Image 2025-09-09 at 11.38.50_2b4c0eec.jpg…]()
+![WhatsApp Image 2025-09-09 at 11 38 53_fa2229ef](https://github.com/user-attachments/assets/41559411-d318-4c4b-856b-3e5612e95e60)
+
+![WhatsApp Image 2025-09-09 at 11 38 52_cd91dd8c](https://github.com/user-attachments/assets/3e7de599-a7ef-4f53-9e16-66a0fa893a14)
+
+![WhatsApp Image 2025-09-09 at 11 38 51_4192ef32](https://github.com/user-attachments/assets/fa61d4fc-0714-4eb8-9360-6bfd8e76fd68)
+
+![WhatsApp Image 2025-09-09 at 11 38 50_53514ad6](https://github.com/user-attachments/assets/15cec8f0-1588-4997-8f47-7280cbee6e98)
 
 
 
