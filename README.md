@@ -35,4 +35,4 @@ Solace is a mobile application designed to provide support for common mental hea
 
 You can download the latest version of the app directly from our releases page.
 
-**[-> Download Solace v1.0.apk <-]((https://github.com/Aerodia/Solace-App-Release/releases/tag/v1.0.1))**
+**[-> Download Solace v1.0.apk <-](https://github.com/Aerodia/Solace-App-Release/releases/tag/v1.0.1)**
